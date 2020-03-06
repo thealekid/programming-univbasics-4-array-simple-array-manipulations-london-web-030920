@@ -43,6 +43,8 @@ def using_uniq(haircuts)
   new_array = haircuts.uniq
 end
 
+def 
+  instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 
 
 
