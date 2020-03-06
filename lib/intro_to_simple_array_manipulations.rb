@@ -13,6 +13,5 @@ end
 
 def pop_with_args (continents)
   @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  @continents.pop 
-  array.unshift (string)
+  @continents.pop(2)
 end
