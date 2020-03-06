@@ -8,7 +8,7 @@ end
 
 def using_pop (artists)
   artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
-  p array
+  artists.pop
 end
 
 def pop_with_args (array, string)
