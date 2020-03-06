@@ -55,7 +55,8 @@ end
 
 def using_delete_at
    famous_robots = ["Johnny 5", "R2D2", "Robocop"]
-   integer = 
+   integer = 2
+   
 
 
 
