@@ -7,7 +7,7 @@ def using_unshift (array, string)
 end
 
 def using_pop (artists)
-  artists = ["Frida Kahlo", "Pablo Picasso", "Antartica"]
+  artists = ["Frida Kahlo", "Pablo Picasso", "Antarctica"]
   artists.pop
 end
 
