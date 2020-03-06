@@ -48,7 +48,8 @@ def using_flatten(instruments)
   flat_array = instruments.using_flatten
 end
 
-def using_delete ()
+def using_delete (instructors)
+  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 
 
 
