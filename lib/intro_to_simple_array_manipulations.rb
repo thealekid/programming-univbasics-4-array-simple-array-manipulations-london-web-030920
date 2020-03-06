@@ -7,8 +7,8 @@ def using_unshift (array, string)
 end
 
 def using_pop (artists)
-  continents = ["Frida Kahlo", "Pablo Picasso", "Antarctica"]
-  artists.pop
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continents.pop
 end
 
 def pop_with_args (array, string)
